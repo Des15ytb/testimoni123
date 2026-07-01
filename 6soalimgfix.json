@@ -1,51 +1,45 @@
 [
   {
     "id": 1,
-    "imageSoal": "https://raw.githubusercontent.com/Des15ytb/testimoni123/refs/heads/main/thumnail26-indigo3.png",
-    "imagePembahasan": "https://raw.githubusercontent.com/Des15ytb/testimoni123/refs/heads/main/thumnail26-indigo3.png",
-    "pertanyaan": "",
+    "pertanyaan": "Ketua RT selalu mengambil keputusan berdasarkan hasil musyawarah bersama warga, dan proses ini dilakukan secara terbuka. Namun, ada sekelompok kecil warga yang terus memprotes hampir setiap keputusan tersebut, meskipun musyawarah sudah dijalankan dengan benar dan adil. Jika sikap kelompok tersebut terus terjadi dalam jangka panjang, dampak paling mendasar yang akan muncul adalah...",
     "opsi": [
-      "A. Merasa bangga menggunakan produk dalam negeri sebagai bentuk apresiasi dan pelestarian terhadap karya anak bangsa.",
-      "B. Rela berkorban membeli produk lokal meskipun memiliki harga yang lebih tinggi demi menyelamatkan UMKM dari kebangkrutan.",
-      "C. Mampu menyeleksi masuknya produk dan budaya asing agar konsumsi sehari-hari tidak bertentangan dengan kepribadian bangsa.",
-      "D. Memiliki kesadaran kolektif untuk memprioritaskan kedaulatan dan kepentingan ekonomi bangsa di atas kepraktisan konsumsi pribadi.",
-      "E. Mendukung pemerataan kemajuan ekonomi nasional dengan cara aktif berpartisipasi dalam berbagai kampanye penggunaan produk lokal."
-    ],
-    "jawabanBenar": "B",
-    "kunci": "Jawaban: B",
-    "pembahasan": ""
-  },
-  {
-    "id": 2,
-    "imageSoal": "https://raw.githubusercontent.com/Des15ytb/testimoni123/refs/heads/main/thumnail26-indigo3.png",
-    "imagePembahasan": "https://raw.githubusercontent.com/Des15ytb/testimoni123/refs/heads/main/thumnail26-indigo3.png",
-    "pertanyaan": "",
-    "opsi": [
-      "A. Mencintai dan bangga menggunakan produk dalam negeri sebagai bentuk penghargaan terhadap kreativitas anak bangsa.",
-      "B. Memiliki kerelaan untuk membeli produk lokal meski kualitasnya belum sempurna demi menjaga perputaran ekonomi kerakyatan.",
-      "C. Tergerak untuk saling bergotong royong mempromosikan produk lokal agar mampu bersaing di pasar mancanegara.",
-      "D. Memiliki kesadaran kolektif bahwa kemandirian ekonomi adalah prasyarat mutlak untuk mempertahankan kedaulatan negara.",
-      "E. Mendukung upaya pemerataan kesejahteraan dengan cara memprioritaskan belanja pada Usaha Mikro, Kecil, dan Menengah (UMKM)."
-    ],
-    "jawabanBenar": "C",
-    "kunci": "Jawaban: C",
-    "pembahasan": ""
-  },
-  {
-    "id": 3,
-    "imageSoal": "https://raw.githubusercontent.com/Des15ytb/testimoni123/refs/heads/main/thumnail26-indigo3.png",
-    "imagePembahasan": "https://raw.githubusercontent.com/Des15ytb/testimoni123/refs/heads/main/thumnail26-indigo3.png",
-    "pertanyaan": "",
-    "opsi": [
-      "A. Memiliki ikatan batin dan kebanggaan terhadap identitas budayanya sehingga selalu merasa rindu untuk pulang ke tanah air.",
-      "B. Terdorong untuk mematuhi komitmen moral dan membalas budi kepada negara yang telah memfasilitasi perjalanan pendidikannya.",
-      "C. Memiliki kesadaran bahwa kecerdasannya merupakan instrumen mutlak yang harus didedikasikan untuk mengangkat kemandirian dan kedaulatan bangsanya.",
-      "D. Rela mengorbankan ambisi serta kenyamanan pribadi di negara maju demi mendarmabaktikan ilmunya bagi masyarakat tertinggal.",
-      "E. Berinisiatif menerapkan ilmu dari negara maju secara nyata untuk mempercepat pemerataan pembangunan dan kesejahteraan sosial di Indonesia."
+      "A. Ketua RT menjadi ragu untuk mengambil keputusan di masa berikutnya.",
+      "B. Warga menjadi kurang tertarik untuk ikut kegiatan musyawarah.",
+      "C. Munculnya rasa tidak percaya antarwarga dalam menyelesaikan masalah bersama.",
+      "D. Musyawarah mulai dipandang sebagai cara yang tidak lagi bisa dipercaya untuk mengambil keputusan bersama.",
+      "E. Munculnya kelompok-kelompok kecil lain yang ikut menentang keputusan bersama."
     ],
     "jawabanBenar": "D",
     "kunci": "Jawaban: D",
-    "pembahasan": ""
+    "pembahasan": "Opsi D paling tepat, karena opsi D merupakan dampak yang paling mendasar dan menjadi akar dari semua dampak lainnya. Kalau musyawarah yang sudah dilakukan dengan benar tetap saja terus diprotes tanpa alasan jelas, yang sebenarnya rusak adalah kepercayaan terhadap musyawarah itu sendiri sebagai cara yang sah untuk mengambil keputusan bersama. Begitu hal ini terjadi, otomatis akan muncul dampak lain seperti opsi A (ketua jadi ragu karena merasa keputusannya tidak akan dihargai apa pun hasilnya), B (warga malas ikut karena merasa musyawarah tidak ada gunanya), C (warga saling tidak percaya karena proses bersama sudah dianggap tidak berarti), dan E (makin banyak yang merasa bebas menentang karena musyawarah sudah tidak dianggap mengikat). D mewakili serta menjelaskan kenapa A, B, C, E semua bisa terjadi. Jadi tips nya adalah jika semua opsi terlihat benar maka pilih opsi yang paling mendasar atau menjadi akar timbulnya opsi yang lain"
+  },
+  {
+    "id": 2,
+    "pertanyaan": "Di era digital, konten yang mengandung provokasi, ujaran kebencian, dan isu SARA menyebar dengan cepat dan masif di berbagai platform. Dalam menghadapi situasi tersebut, wujud peran bela negara yang paling mendasar adalah...",
+    "opsi": [
+      "A. Menjaga persatuan dan keutuhan NKRI sebagai tanggung jawab setiap warga negara dari ancaman non-fisik di ruang digital.",
+      "B. Aktif meningkatkan literasi digital agar tidak mudah terprovokasi oleh konten yang memecah persatuan.",
+      "C. Melaporkan dan tidak menyebarkan konten provokatif yang berpotensi menimbulkan perpecahan antarwarga.",
+      "D. Mendukung regulasi pemerintah dalam penindakan penyebar konten ujaran kebencian dan isu SARA.",
+      "E. Aktif menyebarkan konten yang memperkuat nilai persatuan dan kebangsaan di ruang digital."
+    ],
+    "jawabanBenar": "A",
+    "kunci": "Jawaban: A",
+    "pembahasan": "Hati-hati dalam melihat kata kunci soal, kata kuncinya adalah wujud bela negara paling mendasar, artinya kita diminta memahami konsep bela negara secara mendasar, seperti diketahui bahwa Tujuan mendasar bela negara adalah menjaga keberlangsungan dan keutuhan NKRI sebagai tanggung jawab setiap warga negara, baik dari ancaman fisik maupun non-fisik. Artinya, sebelum bertanya apa yang harus dilakukan?, bela negara terlebih dahulu menjawab untuk apa dilakukan? — yaitu demi keutuhan bangsa. Sehingga opsi A paling mendasar, sedangkan opsi lain merupakan turunan dari opsi A tersebut"
+  },
+  {
+    "id": 3,
+    "pertanyaan": "Seorang WNI berprestasi di bidang teknologi mendapat dua tawaran sekaligus: menetap di perusahaan asing dengan kompensasi sangat kompetitif, atau kembali ke Indonesia sebagai tenaga ahli dalam proyek strategis nasional. Sikap yang paling tepat mencerminkan nilai nasionalisme adalah...",
+    "opsi": [
+      "A. Kembali ke Indonesia atas kesadaran bahwa keahlian yang dimiliki adalah amanah yang harus diabdikan untuk kemajuan bangsa.",
+      "B. Segera kembali ke Indonesia untuk memperkuat citra diri sebagai profesional muda yang berpihak pada pembangunan negeri.",
+      "C. Menolak tawaran luar negeri agar dapat membuktikan bahwa talenta Indonesia mampu memimpin proyek berstandar internasional di negeri sendiri.",
+      "D. Mengutamakan proyek nasional karena dampaknya dinilai lebih luas dan signifikan dibandingkan berkarier di perusahaan asing.",
+      "E. Menolak tawaran luar negeri dan bergabung dalam proyek nasional untuk menunjukkan Indonesia mampu mempertahankan talenta terbaiknya dari persaingan global."
+    ],
+    "jawabanBenar": "A",
+    "kunci": "Jawaban: A",
+    "pembahasan": "Semua opsi menggambarkan sikap untuk kembali ke negara Indonesia namun hanya opsi A yang di landasi kesadaran penuh untuk Indonesia tanpa perlu alasan lain yang menguntungkan. Nasionalisme yang sesungguhnya tidak bergantung pada citra, pembuktian, atau perhitungan terhadap keuntungan pribadi dan orang lain — melainkan pada kesadaran bahwa kemampuan adalah amanah untuk bangsa. Jawaban A — tindakan (kembali ke Indonesia) dan tujuan (amanah untuk kemajuan bangsa) sepenuhnya selaras dengan makna nasionalisme tersebut - kesadaran batin bahwa kemampuan adalah titipan yang wajib dikembalikan kepada bangsa."
   },
   {
     "id": 4,
@@ -81,7 +75,7 @@
   },
   {
     "id": 6,
-    "pertanyaan": "Maraknya fenomena echo chamber di media sosial...",
+    "pertanyaan": "Maraknya fenomena echo chamber di media sosial membuat masyarakat cenderung hanya menerima informasi yang sesuai dengan kelompoknya, sehingga memperuncing polarisasi siber dan mengikis kohesi sosial. Menghadapi tantangan disintegrasi digital ini, aktualisasi nilai nasionalisme secara mendasar diwujudkan melalui...",
     "opsi": [
       "A. Mengembangkan literasi digital yang kritis dan inklusif untuk merajut kembali ruang dialog antar-kelompok demi keutuhan bangsa.",
       "B. Menghindari perdebatan politik di ruang siber dan menggunakan media sosial hanya untuk keperluan ekonomi produktif.",
@@ -91,11 +85,11 @@
     ],
     "jawabanBenar": "A",
     "kunci": "Jawaban: A",
-    "pembahasan": "Esensi filosofis nasionalisme dalam menghadapi ancaman disintegrasi digital adalah upaya kolektif merajut kembali persatuan."
+    "pembahasan": "Esensi filosofis nasionalisme dalam menghadapi ancaman disintegrasi digital adalah upaya kolektif merajut kembali persatuan. Mengembangkan literasi yang kritis dan inklusif bertujuan membuka ruang dialog guna mengatasi sekat-sekat kelompok (echo chamber) demi keutuhan bangsa di atas ego kelompok."
   },
   {
     "id": 7,
-    "pertanyaan": "Masuknya gelombang budaya populer asing secara masif...",
+    "pertanyaan": "Masuknya gelombang budaya populer asing secara masif melalui platform streaming global berpotensi menggeser preferensi kultural generasi muda terhadap nilai-nilai lokal. Di tengah situasi tersebut, langkah konkrit yang mencerminkan esensi nasionalisme adaptif adalah...",
     "opsi": [
       "A. Menolak seluruh produk budaya asing yang masuk demi menjaga kemurnian jati diri budaya nasional dari kontaminasi.",
       "B. Mengasimilasi unsur budaya lokal ke dalam tren global secara kreatif agar nilai-nilai luhur bangsa tetap relevan dan berdaya saing.",
@@ -109,7 +103,7 @@
   },
   {
     "id": 8,
-    "pertanyaan": "Dalam era keterbukaan pasar, kebijakan privatisasi sektor-sektor strategis sering kali dinilai dilematis...",
+    "pertanyaan": "Dalam era keterbukaan pasar, kebijakan privatisasi sektor-sektor strategis sering kali dinilai dilematis antara kebutuhan investasi dan perlindungan hajat hidup orang banyak. Bagi seorang pembuat kebijakan yang berjiwa nasionalis, prinsip fundamental yang harus dijadikan kompas moral adalah...",
     "opsi": [
       "A. Memaksimalkan perolehan keuntungan negara dari investasi asing untuk mempertebal cadangan devisa nasional.",
       "B. Menutup rapat akses modal asing pada seluruh sektor industri demi mewujudkan kemandirian ekonomi yang mutlak.",
@@ -119,6 +113,6 @@
     ],
     "jawabanBenar": "C",
     "kunci": "Jawaban: C",
-    "pembahasan": "Prinsip dasar nasionalisme ekonomi yang berasaskan Pancasila (Pasal 33 UUD 1945) menegaskan bahwa cabang-cabang produksi yang penting bagi negara dan menguasai hajat hidup orang banyak harus dikuasai oleh negara."
+    "pembahasan": "Prinsip dasar nasionalisme ekonomi yang berasaskan Pancasila (Pasal 33 UUD 1945) menegaskan bahwa cabang-cabang produksi yang penting bagi negara dan menguasai hajat hidup orang banyak harus dikuasai oleh negara. Kontrol dominan ini ditujukan murni demi menjamin keadilan sosial bagi seluruh rakyat."
   }
 ]
