@@ -119,7 +119,7 @@
     "id": 9,
     "pertanyaan": "Anda memiliki tiga tenggat waktu pada hari yang sama: laporan rutin bulanan untuk atasan, permintaan data mendadak dari unit lain untuk keperluan rapat pimpinan sore ini, dan revisi dokumen kerja sama yang sudah tertunda dua hari. Apa yang Anda lakukan?",
     "opsi": [
-      "A. Mengidentifikasi urgensi dan dampak masing-masing tugas, menyelesaikan permintaan data untuk rapat pimpinan terlebih dahulu, lalu menjadwalkan dua tugas lainnya dengan estimasi waktu yang realistis dan mengomunikasikannya kepada pihak terkait.",
+      "A. Mengidentifikasi urgensi & dampak masing-masing tugas, menyelesaikan permintaan data untuk rapat pimpinan terlebih dahulu, lalu menjadwalkan dua tugas lainnya dengan estimasi waktu yang realistis dan mengomunikasikannya kepada pihak terkait.",
       "B. Menyelesaikan permintaan data mendadak lebih dulu karena waktunya paling mendesak, kemudian mengerjakan dua tugas lainnya secara berurutan sesuai sisa waktu yang tersedia.",
       "C. Meminta kejelasan dari atasan mengenai tugas mana yang harus diprioritaskan agar tidak salah dalam mengalokasikan waktu dan tenaga.",
       "D. Mengerjakan ketiga tugas secara bergantian agar semuanya mengalami kemajuan dan tidak ada yang terbengkalai sepenuhnya hingga akhir hari.",
