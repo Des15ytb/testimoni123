@@ -59,13 +59,13 @@
   },
   {
     "id": 5,
-    "pertanyaan": "TIU - Numerik \n\n Sebuah proyek pembangunan gedung perpustakaan ditargetkan selesai dalam waktu 40 hari dengan 12 orang pekerja. Setelah bekerja selama 15 hari, kontraktor memutuskan untuk menambah 3 orang pekerja lagi. Berapakah total hari yang dibutuhkan hingga proyek tersebut selesai?",
+    "pertanyaan": "TIU - Silogisme \n\n Dalam sebuah festival seni berskala nasional, panitia memberlakukan aturan khusus. Diketahui bahwa seluruh panitia area panggung yang mengenakan kemeja hijau army berhologram adalah staf yang diizinkan makan di tenda VIP. Di saat yang sama, seluruh panitia area panggung yang mengenakan kemeja hijau army berhologram tersebut merupakan mahasiswa tingkat akhir yang sedang menjalani magang. \n\n Berdasarkan informasi di atas, manakah pernyataan yang pasti benar?",
     "opsi": [
-      "A. 20 Hari.",
-      "B. 25 Hari.",
-      "C. 30 Hari.",
-      "D. 35 Hari.",
-      "E. 40 Hari."
+      "A. Semua mahasiswa tingkat akhir yang sedang magang adalah staf yang diizinkan makan di tenda VIP.",
+      "B. Tidak ada satupun mahasiswa tingkat akhir yang sedang magang yang diizinkan makan di tenda VIP.",
+      "C. Sebagian staf yang diizinkan makan di tenda VIP bukanlah panitia area panggung.",
+      "D. Sebagian mahasiswa tingkat akhir yang sedang magang adalah staf yang diizinkan makan di tenda VIP.",
+      "E. Semua staf yang diizinkan makan di tenda VIP adalah mahasiswa tingkat akhir yang sedang magang."
     ],
     "jawabanBenar": "A",
     "kunci": "Jawaban: -",
